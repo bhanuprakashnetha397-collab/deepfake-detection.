@@ -1,0 +1,6 @@
+streamlit
+pillow
+transformers
+torch
+imageio
+imageio-ffmpeg
